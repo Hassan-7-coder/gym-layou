@@ -1,0 +1,818 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.di {
+    margin-left: 221px;
+}
+a.nav-link.active {
+    margin: 0px 13px;
+    font-size: 14px;
+}
+.book {
+    padding: 11px 34px;
+    font-size: 13px;
+    background-color: #F26D52;
+    color: white;
+    border: 1px solid transparent;
+    border-radius: 13px;
+    margin-left: 35px;
+}
+.ic{
+    position: relative;
+    top: 2px;
+    left: 5px;
+}
+section.img1{
+    background-image: url("neelum-valley.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 560px;
+}
+/* Section 1 -----------------------------------------------------------------------------------*/
+.con {
+    text-align: center;
+    position: relative;
+    top: 85px;
+}
+.hr1 {
+    background-color: red;
+    color: red;
+    height: 4px;
+    width: 42px;
+    position: relative;
+    top: 54px;
+    left: 425px;
+}
+.hr2 {
+    background-color: red;
+    color: red;
+    height: 4px;
+    width: 42px;
+    position: relative;
+    left: 648px;
+    bottom: 8px;
+}
+.con{
+    text-align: center;
+    
+}
+.he1 {
+    font-size: 55px;
+    font-weight: bold;
+    font-family: emoji;
+    position: relative;
+    bottom: 16px;
+    color: white;
+}
+
+.s {
+    position: relative;
+    top: 23px;
+    font-size: 18px;
+    font-weight: 800;
+    font-family: emoji;
+    color: white;
+}
+.box {
+    height: 84px;
+    width: 620px;
+    position: relative;
+    backdrop-filter: blur(10px);
+    border-radius: 10px;
+    left: 245px;
+    font-weight: 600;
+    transition: .3s all ease-in;
+}
+nav.navbar.navbar-expand-lg {
+    padding-top: 16px;
+    padding-bottom: 0px;
+}
+ul.navbar-nav.mx-auto.mb-2.mb-lg-0 {
+    font-size: 14px;
+}
+input[type="text"] {
+    width: 153px;
+    position: relative;
+    top: 12px;
+    left: 15px;
+    border: transparent;
+    background-color: white;
+    padding: 6px;
+    padding-left: 11px;
+    font-size: 12px;
+    border-radius: 5px;
+    
+}
+.ico {
+    color: white;
+    background:  #F26D52;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 7px;
+    position: relative;
+    top: 6px;
+    left: -2px;
+}
+.icoo {
+    color: white;
+    background:  #F26D52;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 7px;
+    position: relative;
+    top: 6px;
+    left: -9px;
+}
+.icooo {
+    color: white;
+    background:  #F26D52;
+    padding: 5px;
+    border-radius: 50%;
+    font-size: 7px;
+    position: relative;
+    top: 6px;
+    left: 7px;
+}
+input[type="date"] {
+    width: 153px;
+    position: relative;
+    top: 12px;
+    left: 25px;
+    border: transparent;
+    background-color: white;
+    padding: 6px;
+    padding-left: 11px;
+    font-size: 12px;
+    border-radius: 5px;
+}
+.yy{
+    width: 153px;
+    position: relative;
+    top: 12px;
+    left: 25px;
+    border: transparent;
+    background-color: white;
+    padding: 6px;
+    padding-left: 11px;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-left: 22px;
+}
+span.lo {
+    font-size: 12px;
+    position: relative;
+    left: -3px;
+    top: 9px;
+    color: aliceblue;
+}
+span.d {
+    font-size: 12px;
+    position: relative;
+    top: 8px;
+    left: -8px;
+    color: rgba(240, 248, 255, 0.125);
+}
+span.pe {
+    font-size: 12px;
+    position: relative;
+    top: 8px;
+    left: 10px;
+    color: aliceblue;
+}
+.line {
+    height: 65px;
+    position: relative;
+    left: 63px;
+    top: 8px;
+    border-left: 2px solid rgb(226, 223, 223);
+}
+.sea {
+    background-color:  #F26D52;
+    color: white;
+    padding: 20px 6px 20px 6px;
+    position: relative;
+    top: 31px;
+    left: 10px;
+    border-radius: 5px;
+    height: 65px;
+}
+.item{
+    background-image: url("imges/ayun.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+}
+.item1{
+    background-image: url("imges/hunza-valley.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+}
+.item2{
+    background-image: url("imges/meadows.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+}
+.item3{
+    background-image: url("imges/neelum-valley.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+}
+.item4{
+    background-image: url("imges/skardu-1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+    border-radius: 10px;
+    transition: .5s all ease-in-out;
+}
+.item5{
+    background-image: url("imges/tomb.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 170px;
+     border-radius: 10px;
+     transition: .5s all ease-in-out;
+}
+section.three {
+    margin-left: 300px;
+    margin-top: 100px;
+}
+span.where {
+    color:orangered;
+    font-size: 12px;
+}
+span.expl {
+    font-size: 42px;
+    font-family: emoji;
+    font-weight: 600;
+}
+span.star {
+    font-size: 12px;
+    background-color: gray;
+    padding: 4px;
+    position: relative;
+    left: 12px;
+    top: 12px;
+    color: white;
+}
+.iocn2{
+    color: yellow;
+}
+span.location {
+    position: relative;
+    top: 128px;
+    font-size: 12px;
+    color: white;
+    left: 12px;
+}
+span.name {
+    position: relative;
+    top: 123px;
+    left: 12px;
+    color: white;
+    font-family: emoji;
+    font-weight: bolder;
+}
+section.four {
+    background-image:url(imges/backgroung3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 570px;
+    margin-top: 83px;
+}
+.secfour {
+    margin-left: 763px;
+    position: relative;
+    top: 144px;
+}
+span.about {
+    font-size: 12px;
+    color: orangered;
+}
+span.unveil {
+    font-size: 23px;
+    font-family: auto;
+    font-weight: 600;
+}
+
+span.duis {
+    font-size: 12px;
+    position: relative;
+    top: 8px;
+}
+.k {
+    width: 94px;
+    height: 89px;
+    background-color: white;
+    position: relative;
+    top: 44px;
+    border-bottom: 1px solid;
+    border-bottom-color: red;
+    border-radius: 9px;
+    transition: .3s all ease-in-out;
+}
+.kk {
+    width: 94px;
+    height: 89px;
+    background-color: white;
+    position: relative;
+    top: -46px;
+    left: 120px;
+    border-bottom: 1px solid;
+    border-bottom-color: red;
+    border-radius: 9px;
+    transition: .3s all ease-in-out;
+
+
+
+}
+.kkk {
+    width: 94px;
+    height: 89px;
+    background-color: white;
+    position: relative;
+    top: -136px;
+    left: 240px;
+    border-bottom: 1px solid;
+    border-bottom-color: red;
+    border-radius: 9px;
+    transition: .3s all ease-in-out;
+}
+span.success {
+    font-size: 10px;
+    position: relative;
+    top: 12px;
+    left: 12px;
+    color: black;
+}
+span.jorny {
+    font-size: 9px;
+    position: relative;
+    top: 4px;
+    left: 12px;
+    color: black;
+}
+span.mony {
+    color: red;
+    font-weight: 600;
+    position: relative;
+    top: 17px;
+    left: 12px;
+    font-size: 17px;
+}
+
+section.five {
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+}
+span.what {
+    font-size: 12px;
+    color: red;
+}
+span.best {
+    font-size: 36px;
+    font-weight: 600;
+    font-family: auto;
+}
+span.loo {
+    font-size: 12px;
+}
+.div{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(253, 248, 238);
+}
+
+.box1 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(250, 250, 243);
+    border-bottom: 1px solid orangered;
+    border-radius: 12px;
+    margin-left: 51px;
+    margin-top: 26px;
+    transition: .5s all ease-in-out;
+}
+.box2 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(251, 251, 242);
+    border-bottom: 1px solid orangered;
+    border-radius: 12px;
+    margin-left: 158px;
+    margin-top: 27px;
+    transition: .5s all ease-in-out;
+}
+.box3 {
+    width: 250px;
+    height: 250px;
+    background-color: rgb(249, 249, 241);
+    border-bottom: 1px solid orangered;
+    border-radius: 12px;
+    margin-left: -55px;
+    margin-top: 27px;
+    transition: .5s all ease-in-out;
+}
+span.learn {
+    font-size: 12px;
+    position: relative;
+    top: 59px;
+    color: orangered;
+}
+span.loo {
+    font-size: 12px;
+    position: relative;
+    top: 43px;
+}
+span.ex {
+    position: relative;
+    top: 39px;
+    font-family: emoji;
+    font-weight: 600;
+}
+.icon4{
+    font-size: 32px;
+    color: orangered;
+    position: relative;
+    top: 32px;
+}
+section.six {
+    background-image: url(hunza-valley.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 420px;
+    margin-bottom: 90px;
+    text-align: center;
+}
+span.comej {
+    position: relative;
+    top: 90px;
+    left: 348px;
+    font-size: 12px;
+    color: white;
+}
+span.makingad {
+    position: relative;
+    top: 140px;
+    font-size: 34px;
+    color: white;
+    font-family: emoji;
+}
+button.booknow {
+    position: relative;
+    top: 170px;
+    padding: 9px 24px;
+    border: transparent;
+    background-color: rgb(211, 65, 65);
+    color: white;
+}
+span.bokn {
+    font-size: 12px;
+}
+.k:hover {
+    width: 94px;
+    height: 89px;
+    background-color: white;
+    position: relative;
+    top: 44px;
+    border-bottom: 1px solid;
+    border-bottom-color: red;
+    border-radius: 9px;
+    box-shadow: 2px 3px 3px 1px rgb(249, 102, 48);
+}
+.kk:hover {
+   
+    box-shadow: 2px 3px 3px 1px rgb(250, 97, 41);
+}
+.kkk:hover {
+  
+    box-shadow: 2px 3px 3px 1px rgb(249, 98, 43);
+}
+.box1:hover{
+    box-shadow: 2px 3px 3px 1px rgb(249, 98, 43);
+}
+.box2:hover{
+    box-shadow: 2px 3px 3px 1px rgb(249, 98, 43);
+}
+.box3:hover{
+    box-shadow: 2px 3px 3px 1px rgb(249, 98, 43);
+}
+.item:hover{
+    transform: scale(.95);
+    box-shadow: 0px 0px 8px 2px rgb(59, 235, 32);
+}
+.item1:hover{
+    transform: scale(.95);
+    box-shadow: 0px 0px 8px 2px rgb(130, 86, 4);
+}
+.item2:hover{
+    transform: scale(.95);
+    box-shadow: 0px 0px 8px 2px rgb(165, 235, 253);
+}
+.item3:hover{
+    transform: scale(.95);
+   box-shadow: 0px 0px 8px 2px  rgb(46, 236, 20);
+
+}
+.item4:hover{
+    transform: scale(.95);
+    box-shadow: 0px 0px 8px 2px rgb(181, 118, 11);
+}
+.item5:hover{
+    transform: scale(.95);
+    box-shadow: 0px 0px 8px 2px rgb(181, 59, 11);
+}
+
+
+li.nav-item:hover {
+    border: 1px solid transparent;
+    box-shadow: -2px 0px 3px .1px orangered;
+    border-radius: 15px;
+}
+.box:hover{
+    transform: scale(1.1);
+    /* border: 1.2px solid orangered; */
+    box-shadow: 0px 0px 8px 2px rgb(139, 211, 30);
+}
+.now,span.where {
+    text-align: center;
+}
+.now .aa{
+    border-radius: 10px;
+
+}
+.aa img {
+    height: 159px;
+    width: 228px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.aa{
+    margin-top: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 5px 4px rgb(225, 218, 218);
+}
+.now h5 {
+    font-size: 10px;
+    position: relative;
+    top: 17px;
+    left: -12px;
+
+}
+.now i{
+    color: #F26D52;
+    font-size: 15px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.now h3 {
+    font-size: 20px;
+    margin-top: 18px;
+    font-family: auto;
+    font-weight: 700;
+    margin-left:6px;
+}
+
+    .now hr {
+        width: 198px;
+        margin-left: 12px;
+    }
+    .now h1 {
+        font-size: 31px;
+        color: orangered;
+        margin-left:5px;
+    }
+    .now h6 {
+        font-size: 12px;
+        position: relative;
+        margin-left: 13px;
+        margin-top: 13px;
+        left: 33px;
+    }
+   .now .bb {
+        height: 80px;
+        border: 1px solid transparent;
+        width: 139px;
+        position: relative;
+        left: 563px;
+        top: 28px;
+    }
+    .now .bb .a i {
+        color: black;
+        font-size: 25px;
+        position: relative;
+        left: 10px;
+        top: 10px;
+        rotate: 180deg;
+        border: 1px solid black;
+        padding: 15px;
+        border-radius: 35px;
+        width: 60px;
+    }
+    .now .bb .b i {
+        color:white;
+        font-size: 25px;
+        position: relative;
+        left: 10px;
+        top: 10px;
+        background-color: #F26D52;
+        border: 1px solid transparent;
+        padding: 15px;
+        border-radius: 35px;
+        width: 60px;
+    }
+    .pata{
+        background-image: url("remove1.jpg");
+        height: 100vh;
+        background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       margin-top: 150px;
+    }
+    .pata span.where{
+       position: relative;
+       top: 130px;
+    }
+    .pata span.expl{
+        position: relative;
+        top: 130px;
+     }
+     .pata p{
+        position: relative;
+        top: 140px;
+        color:rgb(128, 126, 126);
+        font-size: small;
+     }
+     .ww{
+        width: 180px;
+      
+        height: 16px;
+        position: relative;
+        top: 155px;
+        
+     }
+     .ww img {
+        height: 62px;
+        
+    }
+    .ww h3 {
+        font-size: larger;
+        margin-top: 8px;
+        font-family: emoji;
+        font-weight: 700;
+    }
+    .ww span {
+        color: #6f6a6a;
+        font-size: 14px;
+        font-weight: 100;
+    }
+    .ww .bb .a i {
+        color: black;
+        font-size: 15px;
+        position: relative;
+        left: -20px;
+        top: 10px;
+        rotate: 180deg;
+        border: 1px solid transparent;
+        padding: 15px;
+        border-radius: 35px;
+        width: 60px;
+    }
+    .ww .bb .b i {
+        color:#F26D52;
+        font-size: 15px;
+        position: relative;
+        left: -70px;
+        top: 10px;
+        
+        border: 1px solid transparent;
+        padding: 15px;
+        border-radius: 35px;
+        width: 60px;
+    }
+    .carousel-item.active{
+        background-image: url("remove\ lay\ 2.jpg");
+        height: 100vh;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .carousel-item.active,span{
+        text-align: center;
+    }
+    .lay2 img{
+        height: 250px;
+        width: 250px;
+        /* padding: 80px;
+        margin-top: 110px;
+        margin-left: -20px; */
+        padding: 60px;
+    }
+    .c{
+        margin-top: -100px;
+
+    }
+    .lay2 {
+        
+        margin-top: 80px;
+     
+    }
+    .cc{
+        margin-left: -84px;
+        margin-right: -20px;
+        margin-top: 65px;
+
+    }
+    .foot{
+ height: 130px;
+ width: 100%;
+
+
+
+ transition: 50s all ease-in-out;
+ background: rgb(32,22,21);
+ background: radial-gradient(circle, rgba(32,22,21,1) 5%, rgba(96,69,43,1) 52%);
+ animation: aa 4s ease-in-out ;
+}
+
+    
+ @keyframes aa {
+    0%{
+      background: linear-gradient(292deg, rgba(96, 69, 43, 0.421) 22%, rgba(35, 24, 22, 0.388) 86%, rgba(55, 39, 38, 0.196) 89%);
+    width: 10%;
+    }
+    25%{
+        background: rgba(96, 69, 43, 0.141);
+        background: linear-gradient(292deg, rgba(96, 69, 43, 0.518) 22%, rgba(35, 24, 22, 0.468) 86%, rgba(32,22,21,1) 89%);
+    }
+   
+    50%{
+        background: rgba(96, 69, 43, 0.545);
+        background: linear-gradient(292deg, rgba(96, 69, 43, 0.703) 22%, rgba(35, 24, 22, 0.686) 86%, rgba(32, 22, 21, 0.774) 89%);
+    }
+    75%{
+        background: rgba(96, 69, 43, 0.792);
+        background: linear-gradient(292deg, rgba(96, 69, 43, 0.768) 22%, rgba(35, 24, 22, 0.79) 86%, rgba(32, 22, 21, 0.807) 89%);
+    }
+     100%{
+        background: rgba(32, 22, 21, 0.879);
+        background: radial-gradient(circle, rgba(32, 22, 21, 0.916) 5%, rgba(96, 69, 43, 0.922) 52%);
+  width: 100%;
+     }
+} 
+.foot:hover{
+    background: rgb(96,69,43);
+    background: linear-gradient(292deg, rgba(96,69,43,0.8577556022408963) 22%, rgba(35,24,22,1) 86%, rgba(32,22,21,1) 89%);
+  
+}
+  .fot h4 {
+    color: white;
+    font-family: emoji;
+    text-transform: capitalize;
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+.fot img {
+    height: 66px;
+    margin-top: 35px;
+}
+.fot input {
+    width: 253px;
+    height: 44px;
+    margin-top: 33px;
+}
+.fot i {
+    position: relative;
+    top: -31px;
+    left: 225px;
+    font-size: 23px;
+    color: white;
+    background-color: orangered;
+    padding: 9px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+}
+    

@@ -1,0 +1,206 @@
+ <div class="vx">
+                    <p class="cu">2012</p>
+                <h6 class="cu">Best Developers</h6>
+                <hr class="cu">
+                <p class="cu">Lorem ipsum dolor sit amet consectetur. <br>Lorem, ipsum dolor.</p>
+                  </div
+                  <div class="row">
+                    <div class="col-sm-2">
+                      <div class="ke"><img src="cut.jpg"></div>
+                      
+      
+                    </div>
+      
+                    <div class="col-sm-2"> <hr class="b"></div>
+                    <div class="col-sm-2">
+      
+                      <div class="ke"><img src="cut.jpg"></div>
+      
+      
+                    </div>
+                    <div class="col-sm-2"><hr class="b"></div>
+                    <div class="col-sm-2">
+      
+                           <div class="ke"><img src="cut.jpg"></div>
+                          
+      
+                          </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-sm-4">    <h6 class="cu">Meeting</h6>
+      
+                        <p class="cu">Lorem ipsum dolor sit amet consectetur adipisicing. <br> Lorem ipsum dolor sit.</p></div>
+                      <div class="col-sm-4">     <h6 class="cu">Development</h6>
+      
+                        <p class="cu">Lorem ipsum dolor sit amet consectetur adipisicing. <br> Lorem ipsum dolor sit.</p></div>
+                      <div class="col-sm-4">     <h6 class="cu">Finalizing</h6>
+      
+                        <p class="cu">Lorem ipsum dolor sit amet consectetur adipisicing. <br> Lorem ipsum dolor sit.</p></div>
+                        
+                  </div>
+
+
+
+
+
+
+
+
+
+                  <div class="row">
+                    <div class="col-sm-8">
+                      <h6>Donald Handoson</h6>
+                      <p>Lorem ipsum dolor sit amet consectetur adipis.
+                         <br>Lorem ipsum dolor sit amet.
+                          <br>Lorem ipsum dolor sit amet consectetur. 
+                          <br>Lorem, ipsum dolor.</p>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="w"><img src="cut.jpg"  class="w">
+                      <p class="p"><i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i>
+                      <i class="fa-solid fa-star"></i></p>
+
+                     <p class="poi">4.9 REVIEWS</p>
+
+                    </div>
+
+
+
+                    <div class="box">
+                        <div class="row">
+                            <div class="col-sm-8">
+                              <h6>Donald Handoson</h6>
+                              <p>Lorem ipsum dolor sit amet consectetur adipis.
+                                 <br>Lorem ipsum dolor sit amet.
+                                  <br>Lorem ipsum dolor sit amet consectetur. 
+                                  <br>Lorem, ipsum dolor.</p>
+                            </div>
+                            <div class="col-sm-4">
+                              <div class="w"><img src="cut.jpg"  class="w">
+                              <p class="p"><i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i></p>
+
+                             <p class="poi">4.9 REVIEWS</p>
+
+                            </div>
+                    </div>
+
+
+
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="box">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                      <h6>Donald Handoson</h6>
+                                      <p>Lorem ipsum dolor sit amet consectetur adipis.
+                                         <br>Lorem ipsum dolor sit amet.
+                                          <br>Lorem ipsum dolor sit amet consectetur. 
+                                          <br>Lorem, ipsum dolor.</p>
+                                    </div>
+                                    <div class="col-sm-4">
+                                      <div class="w"><img src="cut.jpg"  class="w">
+                                      <p class="p"><i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i></p>
+        
+                                     <p class="poi">4.9 REVIEWS</p>
+        
+                                    </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <div class="box">
+                                <div class="row">
+                                    <div class="col-sm-8">
+                                      <h6>Donald Handoson</h6>
+                                      <p>Lorem ipsum dolor sit amet consectetur adipis.
+                                         <br>Lorem ipsum dolor sit amet.
+                                          <br>Lorem ipsum dolor sit amet consectetur. 
+                                          <br>Lorem, ipsum dolor.</p>
+                                    </div>
+                                    <div class="col-sm-4">
+                                      <div class="w"><img src="cut.jpg"  class="w">
+                                      <p class="p"><i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i>
+                                      <i class="fa-solid fa-star"></i></p>
+        
+                                     <p class="poi">4.9 REVIEWS</p>
+        
+                                    </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <ul class="about">
+                        <li>About</li>
+                        <li>Meet the Team</li>
+                        <li>News & Media</li>
+                        <li>Our Projects</li>
+                        <li>Contacts</li>
+                      </ul>
+                      <ul class="about">
+                        <li>Our Faqs</li>
+                        <li>Gallery</li>
+                        <li>Services</li>
+                        <li>Help</li>
+                       
+                      </ul>
+                      <h4 class="footer">let'sstartworkingtogether</h4>
+                      <h1 class="footer">help@company.com</h1><br>
+                      <h5 class="footer">@copyrightby <ins>HASSANSHAFIQUE</ins></h5>
+
+
+
+                      <i class="fa-solid fa-cart-shopping"></i>
+                      
+                      <i class="fa-solid fa-magnifying-glass"></i>
+
+
+
+
+
+
+
+
+
+                      <div class="box">
+                        <div class="row">
+                            <div class="col-sm-8">
+                              <h6>Donald Handoson</h6>
+                              <p>Lorem ipsum dolor sit amet consectetur adipis.
+                                 <br>Lorem ipsum dolor sit amet.
+                                  <br>Lorem ipsum dolor sit amet consectetur. 
+                                  <br>Lorem, ipsum dolor.</p>
+                            </div>
+                            <div class="col-sm-4">
+                              <div class="w"><img src="cut.jpg"  class="w">
+                              <p class="p"><i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i>
+                              <i class="fa-solid fa-star"></i></p>
+
+                             <p class="poi">4.9 REVIEWS</p>
+
+                            </div>
+                    </div>
+                </div>
+               
+                </div>
